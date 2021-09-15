@@ -1,0 +1,3 @@
+I did not finish the full project. 
+I finished it until step 3, but not the final steps.
+I will try to show the functions I managed to have.
